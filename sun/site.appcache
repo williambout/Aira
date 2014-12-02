@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+js/jquery-2.1.1.js
+js/moment.min.js
+js/xivelyjs-1.0.4.min.js
+css/style.css
+font/din-regular-webfont.ttf
+font/din-regular-webfont.eot
+font/din-regular-webfont.woff
+font/din-regular-webfont.woff2
+
+NETWORK:
+*
