@@ -1,7 +1,7 @@
 # Aira 
 #### A Webapp that tracks temperature and humidity.
 
-![Screenshot](http://i.imgur.com/4nnrstW.png)
+![Screenshot](http://i.imgur.com/4nnrstW.png?1)
 
 ### Hardware Requirement
 
