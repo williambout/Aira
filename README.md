@@ -8,9 +8,9 @@
 - Raspberry Pi
 - DHT_22 Sensor
 
-DHT 22 Wiring :
 
-![DHT22 wiring](http://i.imgur.com/OqtCOHk.gif)
+[DHT22 wiring (Adafruit)](https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/wiring)
+
 
 
 ### Installation
