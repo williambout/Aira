@@ -8,6 +8,10 @@
 - Raspberry Pi
 - DHT_22 Sensor
 
+DHT 22 Wiring :
+
+![DHT22 wiring](http://i.imgur.com/OqtCOHk.gif)
+
 
 ### Installation
 
@@ -43,6 +47,6 @@ Place the `sun` folder on any Web Server.
 
 [Air.py](https://greenpihouse.wordpress.com/2013/10/25/rspberry-pi-dht22-xively/), from RaspberryPi Greenhouse.
 
-[DHT Driver](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/tree/master/Adafruit_DHT_Driver), from Adafruit.
+[DHT22 Driver](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/tree/master/Adafruit_DHT_Driver), from Adafruit.
 
 
